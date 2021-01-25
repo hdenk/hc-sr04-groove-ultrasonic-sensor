@@ -1,0 +1,22 @@
+{
+    "name": "HC-SR04-Groove-Ultrasonic-Sensor",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Grove": "github:seeed-studio/pxt-grove#v0.4.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
